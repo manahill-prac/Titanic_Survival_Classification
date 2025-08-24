@@ -1,49 +1,55 @@
-📊 Data Science Survey Analysis (2017–2021)
 
-This project analyzes the Kaggle Data Science & Machine Learning Survey (2017–2021) to explore key trends in tools, salaries, education, and demographics among data professionals.
-It includes data cleaning, exploratory data analysis (EDA), and interactive visualizations, all built in Python.
+# Titanic Survival Classification
+[![Cool Project](https://img.shields.io/badge/Cool-Project-blueviolet?style=for-the-badge&logo=python)](https://github.com/YOUR_GITHUB_LINK)
 
-
-📂 Dataset
-
-Source: Kaggle "Data Science and Machine Learning Survey" (2017–2021)
-
-Link: Kaggle Dataset
+Open In Colab
 
 
-📑 Covered Analysis
+## Project Overview
+This project predicts **passenger survival on the Titanic** using historical passenger data.  
+It applies **Machine Learning classification models** to forecast whether a passenger survived based on key features:
 
-✔ Data Cleaning & Preprocessing
-✔ Exploratory Data Analysis (EDA)
-✔ Demographics of Data Scientists (age, education, geography)
-✔ Tools & Technologies trends (Python, R, SQL, Cloud, ML frameworks)
-✔ Salary Distribution & Career Path insights
-✔ Visualizations (bar charts, line plots, heatmaps, summary dashboards)
+- Pclass (Ticket Class)  
+- Sex  
+- Age  
+- SibSp (Siblings/Spouses aboard)  
+- Parch (Parents/Children aboard)  
+- Fare  
+- Embarked  
+- Engineered Features: *FamilySize, IsAlone*
 
-🛠 Tools & Libraries
+The project covers:
 
-Python
+- Data preprocessing & cleaning  
+- Exploratory Data Analysis (EDA) with visualizations  
+- Feature engineering  
+- Model training (Logistic Regression, Random Forest, etc.)  
+- Model evaluation (Accuracy, Precision, Recall, F1)  
+  
 
-Pandas & NumPy
+## Data Source
+Kaggle Titanic Dataset: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
 
-Matplotlib & Seaborn
+---
 
-Google Colab (execution environment)
+## Usage Instructions
 
-▶ How to Run
+### Clone the repository:
+```bash
+git clone YOUR_REPO_LINK_HERE
+cd YOUR_PROJECT_FOLDER
+````
 
-Clone this repo
+### Install dependencies:
 
-git clone https://github.com/your-username/DataScience_Survey_2017_2021.git
-cd DataScience_Survey_2017_2021
-
-
-Place the dataset (survey_2017_2021.csv) inside data/.
-
-Install requirements:
-
+```bash
 pip install -r requirements.txt
+```
 
+### Run the notebook:
 
-Run the notebook in Jupyter or open directly in Colab:
+Open in **Google Colab** or **Jupyter Notebook** and run all steps sequentially.
+
+---
+
 
