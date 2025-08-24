@@ -1,6 +1,6 @@
 
 # Titanic Survival Classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_LINK/blob/main/notebooks/Titanic_Classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manahill-prac/Titanic_Survival_Classification/blob/main/notebooks/Titanic_Classification.ipynb)
 
 
 
