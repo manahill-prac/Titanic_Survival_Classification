@@ -1,8 +1,7 @@
 
 # Titanic Survival Classification
-[![Cool Project](https://img.shields.io/badge/Cool-Project-blueviolet?style=for-the-badge&logo=python)](https://github.com/YOUR_GITHUB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_LINK/blob/main/notebooks/Titanic_Classification.ipynb)
 
-Open In Colab
 
 
 ## Project Overview
